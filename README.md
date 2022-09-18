@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeraldCod
 - 👀 I’m interested in Networking, Python, Linux and NetDevOps
-- 🌱 I’m currently learning to develop applications to configure, monitor, troubleshoot, and automate networks on scale
+- 🌱 I’m currently developing network automation systems  
 - 💞️ I’m looking to collaborate on Network automation projects using python or bash
 - 📫 Mail me - herald.np@gmail.com. Connect with me via Linkedin - www.linkedin.com/in/herald126
 
