@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeraldCod
+- 👋 Hi, I’m Herald
 - 👀 I’m interested in Networking, Python, Linux and NetDevOps
 - 🌱 I’m currently developing network automation systems  
 - 💞️ I’m looking to collaborate on Network automation projects using python or bash
